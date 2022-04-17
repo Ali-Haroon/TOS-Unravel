@@ -1,0 +1,431 @@
+{
+  "alexa": 10,
+  "class": "C",
+  "links": {
+    "Alexa Terms of Use": {
+      "name": "Alexa Terms of Use",
+      "url": "https://www.amazon.com/gp/help/customer/display.html?nodeId=201809740"
+    },
+    "Amazon Advertising Preferences": {
+      "name": "Amazon Advertising Preferences",
+      "url": "https://www.amazon.com/adprefs/ref=hp_468496_advertisingpref2"
+    },
+    "Amazon Appstore for Android Terms of Use": {
+      "name": "Amazon Appstore for Android Terms of Use",
+      "url": "https://www.amazon.com/gp/help/customer/display.html?nodeId=201485660"
+    },
+    "Amazon Cloud Cam Terms of Service": {
+      "name": "Amazon Cloud Cam Terms of Service",
+      "url": "https://www.amazon.com/gp/help/customer/display.html/?nodeId=202201080"
+    },
+    "Amazon Cloud Cam and Cloud Cam App FAQs": {
+      "name": "Amazon Cloud Cam and Cloud Cam App FAQs",
+      "url": "https://www.amazon.com/gp/help/customer/display.html/ref=hp_left_v4_sib?ie=UTF8&nodeId=202201100"
+    },
+    "Amazon Coins Terms": {
+      "name": "Amazon Coins Terms",
+      "url": "https://www.amazon.com/gp/help/customer/display.html?nodeId=201434520"
+    },
+    "Amazon Device Terms of Use": {
+      "name": "Amazon Device Terms of Use",
+      "url": "https://www.amazon.com/gp/help/customer/display.html?nodeId=202002080"
+    },
+    "Amazon FreeTime Unlimited Terms & Conditions and Kindle FreeTime Unlimited Terms & Conditions": {
+      "name": "Amazon FreeTime Unlimited Terms & Conditions and Kindle FreeTime Unlimited Terms & Conditions",
+      "url": "https://www.amazon.com/gp/help/customer/display.html?nodeId=201222340"
+    },
+    "Amazon GameCircle Terms of Use": {
+      "name": "Amazon GameCircle Terms of Use",
+      "url": "https://www.amazon.com/gp/help/customer/display.html?nodeId=201487670"
+    },
+    "Amazon Maps Terms of Use": {
+      "name": "Amazon Maps Terms of Use",
+      "url": "https://www.amazon.com/gp/help/customer/display.html?nodeId=201544030"
+    },
+    "Amazon Music Terms of Use": {
+      "name": "Amazon Music Terms of Use",
+      "url": "https://www.amazon.com/gp/help/customer/display.html?nodeId=201380010"
+    },
+    "Amazon Photos Terms of Use": {
+      "name": "Amazon Photos Terms of Use",
+      "url": "https://www.amazon.com/gp/help/customer/display.html?nodeId=201376540"
+    },
+    "Amazon Prime Terms": {
+      "name": "Amazon Prime Terms",
+      "url": "https://www.amazon.com/gp/help/customer/display.html?nodeId=13819201"
+    },
+    "Amazon Privacy Notice": {
+      "name": "Amazon Privacy Notice",
+      "url": "https://www.amazon.com/gp/help/customer/display.html?nodeId=468496"
+    },
+    "Amazon Silk Terms & Conditions": {
+      "name": "Amazon Silk Terms & Conditions",
+      "url": "https://www.amazon.com/gp/help/customer/display.html?nodeId=200775270"
+    },
+    "Amazon Terms of Service": {
+      "name": "Amazon Terms of Service",
+      "url": "https://www.amazon.com/gp/help/customer/display.html?nodeId=202140280"
+    },
+    "Backup and Restore FAQ": {
+      "name": "Backup and Restore FAQ",
+      "url": "https://www.amazon.com/gp/help/customer/display.html?nodeId=201604180"
+    },
+    "Conditions of Use": {
+      "name": "Conditions of Use",
+      "url": "https://www.amazon.com/gp/help/customer/display.html/ref=hp_left_v4_sib?ie=UTF8&nodeId=201909000"
+    },
+    "EU-US and Swiss-US Privacy Shield": {
+      "name": "EU-US and Swiss-US Privacy Shield",
+      "url": "https://www.amazon.com/gp/help/customer/display.html/ref=hp_left_v4_sib?ie=UTF8&nodeId=202135380"
+    },
+    "File Retention Policy": {
+      "name": "File Retention Policy",
+      "url": "https://www.amazon.com/gp/help/customer/display.html?nodeId=202146630"
+    },
+    "Firefly FAQ": {
+      "name": "Firefly FAQ",
+      "url": "https://www.amazon.com/gp/help/customer/display.html?nodeId=201604140"
+    },
+    "Interest-Based Ads": {
+      "name": "Interest-Based Ads",
+      "url": "https://www.amazon.com/gp/help/customer/display.html?nodeId=202075050"
+    },
+    "Interest-Based Ads @ Amazon": {
+      "name": "Interest-Based Ads @ Amazon",
+      "url": "https://www.amazon.com/b?ie=UTF8&node=5160028011"
+    },
+    "Kindle E-Reader and Fire Tablet Terms": {
+      "name": "Kindle E-Reader and Fire Tablet Terms",
+      "url": "https://www.amazon.com/gp/help/customer/display.html?nodeId=200699130"
+    },
+    "Kindle Personal Documents Distributor Terms of Use": {
+      "name": "Kindle Personal Documents Distributor Terms of Use",
+      "url": "https://www.amazon.com/gp/help/customer/display.html?nodeId=201124320"
+    },
+    "Kindle Special Offer Text Notifications Terms & Conditions": {
+      "name": "Kindle Special Offer Text Notifications Terms & Conditions",
+      "url": "https://www.amazon.com/gp/help/customer/display.html?nodeId=201339340"
+    },
+    "Kindle Store Terms of Use": {
+      "name": "Kindle Store Terms of Use",
+      "url": "https://www.amazon.com/gp/help/customer/display.html?nodeId=201014950"
+    },
+    "Kindle Unlimited Terms of Use": {
+      "name": "Kindle Unlimited Terms of Use",
+      "url": "https://www.amazon.com/gp/help/customer/display.html?nodeId=201556940"
+    },
+    "Limited-Time Special Offers Promotional Discount Terms & Conditions": {
+      "name": "Limited-Time Special Offers Promotional Discount Terms & Conditions",
+      "url": "https://www.amazon.com/gp/help/customer/display.html?nodeId=201339330"
+    },
+    "Location Services FAQ": {
+      "name": "Location Services FAQ",
+      "url": "https://www.amazon.com/gp/help/customer/display.html?nodeId=201604200"
+    },
+    "Monthly Payments Terms & Conditions": {
+      "name": "Monthly Payments Terms & Conditions",
+      "url": "https://www.amazon.com/gp/help/customer/display.html?nodeId=202095050"
+    },
+    "Official AWS Privacy Policy": {
+      "name": "Official AWS Privacy Policy",
+      "url": "https://aws.amazon.com/privacy/"
+    },
+    "Privacy Notice": {
+      "name": "Privacy Notice",
+      "url": "https://www.amazon.com/gp/help/customer/display.html?nodeId=201909010"
+    },
+    "Privacy Policy": {
+      "name": "Privacy Policy",
+      "url": "http://www.amazon.co.uk/gp/help/customer/display.html/ref=hp_rel_topic?ie=UTF8&nodeId=502584"
+    },
+    "Report a Security Issue": {
+      "name": "Report a Security Issue",
+      "url": "https://www.amazon.com/gp/help/customer/display.html/ref=hp_left_v4_sib?ie=UTF8&nodeId=201909140"
+    },
+    "Saving Your Wi-Fi Passwords to Amazon FAQs": {
+      "name": "Saving Your Wi-Fi Passwords to Amazon FAQs",
+      "url": "https://www.amazon.com/gp/help/customer/display.html?nodeId=201730860"
+    },
+    "ads": {
+      "name": "Interest Based Ads",
+      "url": "http://www.amazon.com/b/?&node=5160028011"
+    },
+    "security": {
+      "name": "Security, Privacy & Accessibility",
+      "url": "http://www.amazon.com/gp/help/customer/display.html/?nodeId=551434"
+    }
+  },
+  "points": [
+    "10790",
+    "10791",
+    "10792",
+    "1370",
+    "5922",
+    "5923",
+    "5925",
+    "5926",
+    "5929",
+    "5930",
+    "622",
+    "706"
+  ],
+  "pointsData": {
+    "622": {
+      "discussion": "https://groups.google.com/forum/#!topic/tosdr/fmwJnSYYkBU",
+      "id": "622",
+      "needModeration": false,
+      "quoteDoc": "Conditions of Use",
+      "quoteEnd": 7870,
+      "quoteStart": 7403,
+      "quoteText": "If you do post content or submit material, and unless we indicate otherwise, you grant Amazon a nonexclusive, royalty-free, perpetual, irrevocable, and fully sublicensable right to use, reproduce, modify, adapt, publish, perform, translate, create derivative works from, distribute, and display such content throughout the world in any media.\nYou grant Amazon and sublicensees the right to use the name that you submit in connection with such content, if they choose.",
+      "services": [
+        "amazon"
+      ],
+      "set": "set+service+and+topic",
+      "slug": "fmwJnSYYkBU",
+      "title": "This service can license user content to third parties",
+      "topics": [
+        "copyright-scope"
+      ],
+      "tosdr": {
+        "binding": true,
+        "case": "This service can license user content to third parties",
+        "point": "bad",
+        "privacyRelated": true,
+        "score": 50,
+        "tldr": "[Bad] Amazon holds unlimited copyright license on your content"
+      }
+    },
+    "706": {
+      "discussion": "https://groups.google.com/forum/#!topic/tosdr/mwyz0jd-Ehk",
+      "id": "706",
+      "needModeration": false,
+      "quoteDoc": "Conditions of Use",
+      "quoteEnd": 6461,
+      "quoteStart": 6286,
+      "quoteText": "Amazon reserves the right to refuse service, terminate accounts, terminate your rights to use Amazon Services, remove or edit content, or cancel orders in its sole discretion.",
+      "services": [
+        "amazon"
+      ],
+      "set": "set+service+and+topic",
+      "slug": "mwyz0jd-Ehk",
+      "title": "They may stop providing the service at any time",
+      "topics": [
+        "suspension"
+      ],
+      "tosdr": {
+        "binding": true,
+        "case": "They may stop providing the service at any time",
+        "point": "bad",
+        "score": 40,
+        "tldr": "Amazon can cancel your account and remove content at any time."
+      }
+    },
+    "1370": {
+      "discussion": "https://groups.google.com/forum#!topic/tosdr/OwOPV_P-SKM",
+      "id": "1370",
+      "needModeration": false,
+      "quoteDoc": "Conditions of Use",
+      "quoteEnd": 5803,
+      "quoteStart": 5573,
+      "quoteText": "You are responsible for maintaining the confidentiality of your account and password and for restricting access to your account, and you agree to accept responsibility for all activities that occur under your account or password.\n",
+      "services": [
+        "amazon"
+      ],
+      "slug": "OwOPV_P-SKM",
+      "title": "Users are responsible for maintaining the security of their Amazon account and for the activities on their account",
+      "topics": [],
+      "tosdr": {
+        "binding": true,
+        "case": "You are responsible for maintaining the security of your account and for the activities on your account",
+        "point": "neutral",
+        "score": 10,
+        "tldr": ""
+      }
+    },
+    "5922": {
+      "id": "5922",
+      "quoteDoc": "Conditions of Use",
+      "quoteEnd": 12757,
+      "quoteStart": 12067,
+      "quoteText": "THE AMAZON SERVICES AND ALL INFORMATION, CONTENT, MATERIALS, PRODUCTS (INCLUDING SOFTWARE) AND OTHER SERVICES INCLUDED ON OR OTHERWISE MADE AVAILABLE TO YOU THROUGH THE AMAZON SERVICES ARE PROVIDED BY AMAZON ON AN \"AS IS\" AND \"AS AVAILABLE\" BASIS, UNLESS OTHERWISE SPECIFIED IN WRITING.\nAMAZON MAKES NO REPRESENTATIONS OR WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, AS TO THE OPERATION OF THE AMAZON SERVICES, OR THE INFORMATION, CONTENT, MATERIALS, PRODUCTS (INCLUDING SOFTWARE) OR OTHER SERVICES INCLUDED ON OR OTHERWISE MADE AVAILABLE TO YOU THROUGH THE AMAZON SERVICES, UNLESS OTHERWISE SPECIFIED IN WRITING.\nYOU EXPRESSLY AGREE THAT YOUR USE OF THE AMAZON SERVICES IS AT YOUR SOLE RISK",
+      "services": [
+        "amazon"
+      ],
+      "title": "The service is provided 'as is' and to be used at the users' sole risk",
+      "topics": [],
+      "tosdr": {
+        "binding": true,
+        "case": "The service is provided 'as is' and to be used at the users' sole risk",
+        "point": "bad",
+        "score": 20,
+        "tldr": "Generated through the annotate view"
+      }
+    },
+    "5923": {
+      "id": "5923",
+      "quoteDoc": "Conditions of Use",
+      "quoteEnd": 14060,
+      "quoteStart": 13750,
+      "quoteText": "Any dispute or claim relating in any way to your use of any Amazon Service, or to any products or services sold or distributed by Amazon or through Amazon.com will be resolved by binding arbitration, rather than in court</strong>, except that you may assert claims in small claims court if your claims qualify.",
+      "services": [
+        "amazon"
+      ],
+      "title": "This service forces users into binding arbitration in the case of disputes",
+      "topics": [],
+      "tosdr": {
+        "binding": true,
+        "case": "This service forces users into binding arbitration in the case of disputes",
+        "point": "bad",
+        "score": 50,
+        "tldr": "Generated through the annotate view"
+      }
+    },
+    "5925": {
+      "id": "5925",
+      "quoteDoc": "Conditions of Use",
+      "quoteEnd": 16441,
+      "quoteStart": 16304,
+      "quoteText": "Please review our other policies, such as our pricing policy, posted on this site.\nThese policies also govern your use of Amazon Services",
+      "services": [
+        "amazon"
+      ],
+      "title": "This service employs separate policies for different parts of the service",
+      "topics": [],
+      "tosdr": {
+        "binding": true,
+        "case": "This service employs separate policies for different parts of the service",
+        "point": "neutral",
+        "score": 0,
+        "tldr": "Generated through the annotate view"
+      }
+    },
+    "5926": {
+      "id": "5926",
+      "quoteDoc": "Conditions of Use",
+      "quoteEnd": 16557,
+      "quoteStart": 16443,
+      "quoteText": "We reserve the right to make changes to our site, policies, Service Terms, and these Conditions of Use at any time",
+      "services": [
+        "amazon"
+      ],
+      "title": " Terms may be changed any time at their discretion, without notice to the user ",
+      "topics": [],
+      "tosdr": {
+        "binding": true,
+        "case": " Terms may be changed any time at their discretion, without notice to the user ",
+        "point": "bad",
+        "score": 70,
+        "tldr": "Generated through the annotate view"
+      }
+    },
+    "5929": {
+      "id": "5929",
+      "quoteDoc": "EU-US and Swiss-US Privacy Shield",
+      "quoteEnd": 4952,
+      "quoteStart": 4616,
+      "quoteText": "The Amazon Group Companies are subject to the investigatory and enforcement powers of the Federal Trade Commission (FTC).\nWe may be required to disclose personal information that we handle under the Privacy Shield in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.",
+      "services": [
+        "amazon"
+      ],
+      "title": "This service can share your personal information to third parties ",
+      "topics": [],
+      "tosdr": {
+        "binding": true,
+        "case": "Your personal data is given to third parties",
+        "point": "bad",
+        "privacyRelated": true,
+        "score": 10,
+        "tldr": "Generated through the annotate view"
+      }
+    },
+    "5930": {
+      "id": "5930",
+      "needModeration": false,
+      "quoteDoc": "Amazon Maps Terms of Use",
+      "quoteEnd": 4501,
+      "quoteStart": 4363,
+      "quoteText": "We may terminate the Agreement or restrict, suspend or terminate your use of the Service at our discretion at any time without notice.</p>",
+      "services": [
+        "amazon"
+      ],
+      "title": "The service can delete your account without prior notice and without a reason",
+      "topics": [],
+      "tosdr": {
+        "binding": true,
+        "case": "The service can delete your account without prior notice and without a reason",
+        "point": "bad",
+        "score": 60,
+        "tldr": "Generated through the annotate view"
+      }
+    },
+    "10790": {
+      "id": "10790",
+      "quoteDoc": "Conditions of Use",
+      "quoteEnd": 16771,
+      "quoteStart": 16559,
+      "quoteText": "If any of these conditions shall be deemed invalid, void, or for any reason unenforceable, that condition shall be deemed severable and shall not affect the validity and enforceability of any remaining condition.",
+      "services": [
+        "amazon"
+      ],
+      "title": "Invalidity of any portion of the Terms of Service does not entail invalidity of its remainder",
+      "topics": [],
+      "tosdr": {
+        "binding": true,
+        "case": "Invalidity of any portion of the Terms of Service does not entail invalidity of its remainder",
+        "point": "neutral",
+        "score": 10,
+        "tldr": "Generated through the annotate view"
+      }
+    },
+    "10791": {
+      "id": "10791",
+      "quoteDoc": "Conditions of Use",
+      "quoteEnd": 7127,
+      "quoteStart": 7003,
+      "quoteText": "commercial solicitation, chain letters, mass mailings, or any form of \"spam\" or unsolicited commercial electronic messages.\n",
+      "services": [
+        "amazon"
+      ],
+      "title": "This service prohibits users sending chain letters, junk mail, spam or any unsolicited messages",
+      "topics": [],
+      "tosdr": {
+        "binding": true,
+        "case": "This service prohibits users sending chain letters, junk mail, spam or any unsolicited messages",
+        "point": "neutral",
+        "score": 15,
+        "tldr": "Full Quote: \"You may post reviews, comments, photos, videos, and other content. send e-cards and other communications. and submit suggestions, ideas, comments, questions, or other information, so long as the content is not illegal, obscene, threatening, defamatory, invasive of privacy, infringing of intellectual property rights (including publicity rights), or otherwise injurious to third parties or objectionable, and does not consist of or contain software viruses, political campaigning, commercial solicitation, chain letters, mass mailings, or any form of \"spam\" or unsolicited commercial electronic messages.\""
+      }
+    },
+    "10792": {
+      "id": "10792",
+      "quoteDoc": "Conditions of Use",
+      "quoteEnd": 7002,
+      "quoteStart": 6980,
+      "quoteText": "political campaigning,",
+      "services": [
+        "amazon"
+      ],
+      "title": "Prohibits political discussions or campaigning",
+      "topics": [],
+      "tosdr": {
+        "binding": true,
+        "case": "Prohibits political discussions or campaigning",
+        "point": "neutral",
+        "score": 30,
+        "tldr": "Full Quote: \"You may post reviews, comments, photos, videos, and other content. send e-cards and other communications. and submit suggestions, ideas, comments, questions, or other information, so long as the content is not illegal, obscene, threatening, defamatory, invasive of privacy, infringing of intellectual property rights (including publicity rights), or otherwise injurious to third parties or objectionable, and does not consist of or contain software viruses, political campaigning, commercial solicitation, chain letters, mass mailings, or any form of \"spam\" or unsolicited commercial electronic messages.\""
+      }
+    }
+  },
+  "urls": [
+    "amazon.com",
+    "amazon.de",
+    "amazon",
+    "amazon.co.uk",
+    "amazon.co.jp",
+    "amazon.co.fr",
+    "amazon.es",
+    "amazon.in",
+    "amazon.ca"
+  ]
+}

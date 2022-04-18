@@ -1,5 +1,8 @@
 import Foundation
 
-enum Service: String, Codable {
-    case apple = "apple"
+// MARK: - Service
+struct Service: Codable {
+    let error: Int?
+    let message: String?
+    let parameters: Parameters?
 }

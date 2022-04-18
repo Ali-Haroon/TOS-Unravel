@@ -2,6 +2,7 @@ import SwiftUI
 
 struct ContentView: View {
     @State var companies: [Company]
+    @State var services: [ServiceElement]
     @State var searchString: String = ""
     @State var filterFavorites: Bool = false
     @State var filterLength: Bool = false
@@ -67,7 +68,17 @@ struct ContentView: View {
             print(CompanyDecoder.decodeCompany(company: "spotify") != nil)
             print(CompanyDecoder.decodeCompany(company: "snapchat") != nil)
             print(CompanyDecoder.decodeCompany(company: "venmo") != nil)
-            
+            Task {
+                do {
+                    let service = try await NetworkHandler.getServices()
+                    print(service.parameters?.services?.count)
+                    let pebble = try await NetworkHandler.getService(serviceName: "pebble")
+                    print(pebble.parameters?.documents)
+                    print(pebble)
+                } catch let e {
+                    print(e)
+                }
+            }
     
         }
         
@@ -97,6 +108,10 @@ struct ContentView: View {
         return newCompanies
     }
     
+    func filteredServices(services: [ServiceElement]) -> [ServiceElement] {
+        return []
+    }
+    
 }
 
 struct ContentView_Previews: PreviewProvider {
@@ -112,7 +127,7 @@ struct ContentView_Previews: PreviewProvider {
             CompanyDecoder.decodeCompany(company: "snapchat")!,
             CompanyDecoder.decodeCompany(company: "venmo")!,
             CompanyDecoder.decodeCompany(company: "youtube")!
-        ])
+        ], services: [])
 .previewInterfaceOrientation(.portrait)
     }
 }

@@ -24,7 +24,7 @@ struct TosUnravelApp: App {
                 CompanyDecoder.decodeCompany(company: "Youtube")!
 
 
-            ])
+            ], services: [])
                 .environmentObject(Favorites())
         }
     }

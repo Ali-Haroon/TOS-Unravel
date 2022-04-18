@@ -36,6 +36,22 @@
 		1E65CF3A278E31CB00A090B3 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E65CF39278E31CB00A090B3 /* ContentView.swift */; };
 		1E65CF3C278E31CD00A090B3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1E65CF3B278E31CD00A090B3 /* Assets.xcassets */; };
 		1E65CF3F278E31CD00A090B3 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1E65CF3E278E31CD00A090B3 /* Preview Assets.xcassets */; };
+		1EAE6125280BC542006BA067 /* API.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1EAE6124280BC542006BA067 /* API.swift */; };
+		1EAE6135280BD059006BA067 /* Page.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1EAE6131280BD059006BA067 /* Page.swift */; };
+		1EAE6136280BD059006BA067 /* Links.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1EAE6133280BD059006BA067 /* Links.swift */; };
+		1EAE6137280BD059006BA067 /* AtedAt.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1EAE6134280BD059006BA067 /* AtedAt.swift */; };
+		1EAE6138280BD059006BA067 /* Phoenix.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1EAE612D280BD059006BA067 /* Phoenix.swift */; };
+		1EAE6139280BD059006BA067 /* Letter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1EAE612F280BD059006BA067 /* Letter.swift */; };
+		1EAE613A280BD059006BA067 /* Rating.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1EAE612E280BD059006BA067 /* Rating.swift */; };
+		1EAE613B280BD059006BA067 /* Human.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1EAE6129280BD059006BA067 /* Human.swift */; };
+		1EAE613C280BD059006BA067 /* Crisp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1EAE6132280BD059006BA067 /* Crisp.swift */; };
+		1EAE613E280BD059006BA067 /* Parameters.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1EAE6128280BD058006BA067 /* Parameters.swift */; };
+		1EAE613F280BD059006BA067 /* Timezone.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1EAE612A280BD059006BA067 /* Timezone.swift */; };
+		1EAE6140280BD059006BA067 /* Badge.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1EAE6130280BD059006BA067 /* Badge.swift */; };
+		1EAE6141280BD059006BA067 /* ServiceElement.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1EAE612B280BD059006BA067 /* ServiceElement.swift */; };
+		1EAE6145280BD0A2006BA067 /* Service.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1EAE6144280BD0A2006BA067 /* Service.swift */; };
+		1EAE6147280BD345006BA067 /* ServiceInfo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1EAE6146280BD345006BA067 /* ServiceInfo.swift */; };
+		1EAE614B280CC95C006BA067 /* ServicePage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1EAE614A280CC95C006BA067 /* ServicePage.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -69,6 +85,22 @@
 		1E65CF39278E31CB00A090B3 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		1E65CF3B278E31CD00A090B3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1E65CF3E278E31CD00A090B3 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		1EAE6124280BC542006BA067 /* API.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = API.swift; sourceTree = "<group>"; };
+		1EAE6128280BD058006BA067 /* Parameters.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Parameters.swift; sourceTree = "<group>"; };
+		1EAE6129280BD059006BA067 /* Human.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Human.swift; sourceTree = "<group>"; };
+		1EAE612A280BD059006BA067 /* Timezone.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Timezone.swift; sourceTree = "<group>"; };
+		1EAE612B280BD059006BA067 /* ServiceElement.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ServiceElement.swift; sourceTree = "<group>"; };
+		1EAE612D280BD059006BA067 /* Phoenix.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Phoenix.swift; sourceTree = "<group>"; };
+		1EAE612E280BD059006BA067 /* Rating.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Rating.swift; sourceTree = "<group>"; };
+		1EAE612F280BD059006BA067 /* Letter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Letter.swift; sourceTree = "<group>"; };
+		1EAE6130280BD059006BA067 /* Badge.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Badge.swift; sourceTree = "<group>"; };
+		1EAE6131280BD059006BA067 /* Page.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Page.swift; sourceTree = "<group>"; };
+		1EAE6132280BD059006BA067 /* Crisp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Crisp.swift; sourceTree = "<group>"; };
+		1EAE6133280BD059006BA067 /* Links.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Links.swift; sourceTree = "<group>"; };
+		1EAE6134280BD059006BA067 /* AtedAt.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AtedAt.swift; sourceTree = "<group>"; };
+		1EAE6144280BD0A2006BA067 /* Service.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Service.swift; sourceTree = "<group>"; };
+		1EAE6146280BD345006BA067 /* ServiceInfo.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ServiceInfo.swift; sourceTree = "<group>"; };
+		1EAE614A280CC95C006BA067 /* ServicePage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ServicePage.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -108,10 +140,13 @@
 				1E198646280785E5005BDC88 /* CompanyListRow.swift */,
 				1E48D56127EC187A008E5B80 /* CompanyDecoder.swift */,
 				1E3E3986279BC2030081FF82 /* CompanyRow.swift */,
+				1EAE614A280CC95C006BA067 /* ServicePage.swift */,
 				1E3E3982279BBED20081FF82 /* Company.swift */,
 				1E3E3984279BC0A80081FF82 /* Tag.swift */,
 				1E5E313427E6914B005CCEA7 /* Point.swift */,
 				1E5E313627E69156005CCEA7 /* Tosdr.swift */,
+				1EAE612D280BD059006BA067 /* Phoenix.swift */,
+				1EAE612E280BD059006BA067 /* Rating.swift */,
 				1E5E313827E69162005CCEA7 /* Service.swift */,
 				1E5E313A27E6916A005CCEA7 /* QuoteDoc.swift */,
 				1E5E313C27E69172005CCEA7 /* PointsDatum.swift */,
@@ -127,6 +162,19 @@
 				1E48D56927EC1B83008E5B80 /* snapchat.json */,
 				1E48D56B27EC1BAE008E5B80 /* venmo.json */,
 				1E48D55F27EC14A2008E5B80 /* youtube.json */,
+				1EAE6124280BC542006BA067 /* API.swift */,
+				1EAE6134280BD059006BA067 /* AtedAt.swift */,
+				1EAE6130280BD059006BA067 /* Badge.swift */,
+				1EAE6132280BD059006BA067 /* Crisp.swift */,
+				1EAE6129280BD059006BA067 /* Human.swift */,
+				1EAE612F280BD059006BA067 /* Letter.swift */,
+				1EAE6133280BD059006BA067 /* Links.swift */,
+				1EAE6131280BD059006BA067 /* Page.swift */,
+				1EAE6128280BD058006BA067 /* Parameters.swift */,
+				1EAE612B280BD059006BA067 /* ServiceElement.swift */,
+				1EAE612A280BD059006BA067 /* Timezone.swift */,
+				1EAE6144280BD0A2006BA067 /* Service.swift */,
+				1EAE6146280BD345006BA067 /* ServiceInfo.swift */,
 				1E65CF3B278E31CD00A090B3 /* Assets.xcassets */,
 				1E19864A2807A341005BDC88 /* ProfileView.swift */,
 				1E65CF3D278E31CD00A090B3 /* Preview Content */,
@@ -223,21 +271,37 @@
 			buildActionMask = 2147483647;
 			files = (
 				1E3E3987279BC2030081FF82 /* CompanyRow.swift in Sources */,
+				1EAE6140280BD059006BA067 /* Badge.swift in Sources */,
+				1EAE6138280BD059006BA067 /* Phoenix.swift in Sources */,
 				1E198649280794DA005BDC88 /* ScoreView.swift in Sources */,
 				1E5E313927E69162005CCEA7 /* Service.swift in Sources */,
 				1E5E313D27E69172005CCEA7 /* PointsDatum.swift in Sources */,
 				1E3E3985279BC0A80081FF82 /* Tag.swift in Sources */,
 				1E5E314727E6992D005CCEA7 /* CompanyInfo.swift in Sources */,
 				1E5E313F27E69179005CCEA7 /* Link.swift in Sources */,
+				1EAE6147280BD345006BA067 /* ServiceInfo.swift in Sources */,
 				1E5E313527E6914B005CCEA7 /* Point.swift in Sources */,
+				1EAE6137280BD059006BA067 /* AtedAt.swift in Sources */,
+				1EAE6141280BD059006BA067 /* ServiceElement.swift in Sources */,
 				1E65CF3A278E31CB00A090B3 /* ContentView.swift in Sources */,
+				1EAE6145280BD0A2006BA067 /* Service.swift in Sources */,
+				1EAE613F280BD059006BA067 /* Timezone.swift in Sources */,
 				1E19864B2807A341005BDC88 /* ProfileView.swift in Sources */,
+				1EAE613A280BD059006BA067 /* Rating.swift in Sources */,
 				1E3E3983279BBED20081FF82 /* Company.swift in Sources */,
+				1EAE613E280BD059006BA067 /* Parameters.swift in Sources */,
 				1E198647280785E5005BDC88 /* CompanyListRow.swift in Sources */,
+				1EAE6135280BD059006BA067 /* Page.swift in Sources */,
 				1E1986452803E33C005BDC88 /* Favorites.swift in Sources */,
 				1E65CF38278E31CB00A090B3 /* TosUnravelApp.swift in Sources */,
+				1EAE6136280BD059006BA067 /* Links.swift in Sources */,
 				1E5E313727E69156005CCEA7 /* Tosdr.swift in Sources */,
 				1E5E313B27E6916A005CCEA7 /* QuoteDoc.swift in Sources */,
+				1EAE613C280BD059006BA067 /* Crisp.swift in Sources */,
+				1EAE614B280CC95C006BA067 /* ServicePage.swift in Sources */,
+				1EAE6125280BC542006BA067 /* API.swift in Sources */,
+				1EAE613B280BD059006BA067 /* Human.swift in Sources */,
+				1EAE6139280BD059006BA067 /* Letter.swift in Sources */,
 				1E48D56227EC187A008E5B80 /* CompanyDecoder.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
